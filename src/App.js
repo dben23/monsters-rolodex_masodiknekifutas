@@ -41,3 +41,5 @@ class App extends Component {
 }
 
 export default App;
+
+// THIS IS JUST A COMMENT, DOESN'T DO ANYTHING
